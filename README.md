@@ -25,10 +25,10 @@ The Sorting Visualizer is built using the following technologies:
 
 To run the Sorting Visualizer locally, follow these steps:
 
-1. Clone the repository: ` bash ``
-2.  ```https://github.com/sujeets2330/Sorting---Visualizer.git```
+1. Clone the repository: ` bash `
+  ```https://github.com/sujeets2330/Sorting---Visualizer.git```
 3. Navigate to the project directory: ` bash `
-4. ```cd Sorting-Visualizer-front-end```
+ ```cd Sorting-Visualizer-front-end```
 5. Open `index.html` in your preferred web browser.
 
 ## Usage
