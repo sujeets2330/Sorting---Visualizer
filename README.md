@@ -19,7 +19,7 @@ The Sorting Visualizer is built using the following technologies:
 - **HTML**: Markup language for structuring the web page.
 - **CSS**: Styling language to enhance the appearance of the visualizer.
 - **JavaScript**: Programming language to implement the sorting algorithms and handle the visualization logic.
-- 
+  
 
 ## Installation
 
