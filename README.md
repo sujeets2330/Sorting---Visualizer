@@ -2,8 +2,7 @@
 
 The Sorting Visualizer is a web application that demonstrates various sorting algorithms visually. It allows users to visualize the process of sorting an array, helping them understand how different algorithms work and how they compare in terms of efficiency.
 
-Check out the live demo of the Sorting Visualizer [[here]](https://prureddy.github.io/myPortfolio/)
-
+ 
 ## Features
 
 - **Array Generation**: Automatically generate an array of random elements or provide a custom input.
@@ -26,9 +25,11 @@ The Sorting Visualizer is built using the following technologies:
 
 To run the Sorting Visualizer locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Prureddy/Sorting-Visualizer-front-end)`
-2. Navigate to the project directory: `cd Sorting-Visualizer-front-end`
-3. Open `index.html` in your preferred web browser.
+1. Clone the repository: ` bash ``
+2.  ```https://github.com/sujeets2330/Sorting---Visualizer.git```
+3. Navigate to the project directory: ` bash `
+4. ```cd Sorting-Visualizer-front-end```
+5. Open `index.html` in your preferred web browser.
 
 ## Usage
 
@@ -49,45 +50,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 output will be like this :
 
-
-
-
-
-
 ![Screenshot 2023-06-20 234643](https://github.com/Prureddy/Sorting-Visualizer-front-end/assets/99805816/6d4f9191-cac2-4025-8e90-25006fd229b2)
 ![Screenshot 2023-06-20 234701](https://github.com/Prureddy/Sorting-Visualizer-front-end/assets/99805816/18c5a44b-e1c9-485e-8193-10cd9e943bde)
 
+### Author
 
+Sujeet M A
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+sujeetmalagundi999@gmail.com 
